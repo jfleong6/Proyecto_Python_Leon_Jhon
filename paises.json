@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "India",
+        "codigo_iso": "IN",
+        "codigo_iso3": "IND"
+    },
+    {
+        "nombre": "China",
+        "codigo_iso": "CN",
+        "codigo_iso3": "CHN"
+    },
+    {
+        "nombre": "Estados Unidos",
+        "codigo_iso": "US",
+        "codigo_iso3": "USA"
+    },
+    {
+        "nombre": "Brasil",
+        "codigo_iso": "BR",
+        "codigo_iso3": "BRA"
+    },
+    {
+        "nombre": "Indonesia",
+        "codigo_iso": "ID",
+        "codigo_iso3": "IDN"
+    },
+    {
+        "nombre": "Nigeria",
+        "codigo_iso": "NG",
+        "codigo_iso3": "NGA"
+    },
+    {
+        "nombre": "Rusia",
+        "codigo_iso": "RU",
+        "codigo_iso3": "RUS"
+    },
+    {
+        "nombre": "Jap\u00f3n",
+        "codigo_iso": "JP",
+        "codigo_iso3": "JPN"
+    },
+    {
+        "nombre": "Alemania",
+        "codigo_iso": "DE",
+        "codigo_iso3": "DEU"
+    },
+    {
+        "nombre": "Reino Unido",
+        "codigo_iso": "GB",
+        "codigo_iso3": "GBR"
+    }
+]

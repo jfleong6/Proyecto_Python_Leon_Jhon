@@ -1,0 +1,202 @@
+[
+    {
+        "ano": 2000,
+        "pais": "India",
+        "codigo_iso3": "IND",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 100,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2010,
+        "pais": "India",
+        "codigo_iso3": "IND",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 120,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2020,
+        "pais": "India",
+        "codigo_iso3": "IND",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 130,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2022,
+        "pais": "India",
+        "codigo_iso3": "IND",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 135,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2023,
+        "pais": "India",
+        "codigo_iso3": "IND",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 138,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2000,
+        "pais": "China",
+        "codigo_iso3": "CHN",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 1262645000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2010,
+        "pais": "China",
+        "codigo_iso3": "CHN",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 1337705000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2020,
+        "pais": "China",
+        "codigo_iso3": "CHN",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 1402112000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2022,
+        "pais": "China",
+        "codigo_iso3": "CHN",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 1412600000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2023,
+        "pais": "China",
+        "codigo_iso3": "CHN",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 1415000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2000,
+        "pais": "Estados Unidos",
+        "codigo_iso3": "USA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 282162411,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2010,
+        "pais": "Estados Unidos",
+        "codigo_iso3": "USA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 309011475,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2020,
+        "pais": "Estados Unidos",
+        "codigo_iso3": "USA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 331449281,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2022,
+        "pais": "Estados Unidos",
+        "codigo_iso3": "USA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 334805269,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2023,
+        "pais": "Estados Unidos",
+        "codigo_iso3": "USA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 336997624,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2000,
+        "pais": "Brasil",
+        "codigo_iso3": "BRA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 174790340,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2010,
+        "pais": "Brasil",
+        "codigo_iso3": "BRA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 195713635,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2020,
+        "pais": "Brasil",
+        "codigo_iso3": "BRA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 212559417,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2022,
+        "pais": "Brasil",
+        "codigo_iso3": "BRA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 214326223,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2023,
+        "pais": "Brasil",
+        "codigo_iso3": "BRA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n",
+        "valor": 216422446,
+        "estado": "disponible",
+        "unidad": "personas"
+    }
+]

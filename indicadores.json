@@ -1,0 +1,42 @@
+[
+    {
+        "id_indicador": "SP.POP.TOTL",
+        "descripcion": "Total de poblaci\u00f3n"
+    },
+    {
+        "id_indicador": "SP.POP.GROW",
+        "descripcion": "Crecimiento anual de la poblaci\u00f3n (%)"
+    },
+    {
+        "id_indicador": "SP.URB.TOTL",
+        "descripcion": "Poblaci\u00f3n urbana"
+    },
+    {
+        "id_indicador": "SP.RUR.TOTL",
+        "descripcion": "Poblaci\u00f3n rural"
+    },
+    {
+        "id_indicador": "SP.DENS.TOTL",
+        "descripcion": "Densidad de poblaci\u00f3n (personas por km2)"
+    },
+    {
+        "id_indicador": "SP.ADO.TFRT",
+        "descripcion": "Tasa de fertilidad adolescente (nacimientos por cada 1,000 mujeres)"
+    },
+    {
+        "id_indicador": "SP.LIFE.EXP",
+        "descripcion": "Esperanza de vida al nacer (a\u00f1os)"
+    },
+    {
+        "id_indicador": "SP.DEATH.TOTL",
+        "descripcion": "Tasa de mortalidad (por cada 1,000 habitantes)"
+    },
+    {
+        "id_indicador": "SP.MIG.NET",
+        "descripcion": "Migraci\u00f3n neta"
+    },
+    {
+        "id_indicador": "SP.POP.65UP",
+        "descripcion": "Poblaci\u00f3n de 65 a\u00f1os y m\u00e1s"
+    }
+]
